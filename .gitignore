@@ -1,0 +1,19 @@
+## Extensions
+.exe
+.obj
+## End Extensions
+
+## Files
+## End Files
+
+## Directories
+/.devcontainer
+/.vscode
+/build
+/dist
+## End Directories
+
+## Un-Ignore
+!.gitkeep
+## End Un-Ignore
+

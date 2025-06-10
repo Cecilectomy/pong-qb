@@ -1,0 +1,9 @@
+SCREEN _NEWIMAGE(641, 401, 32)
+DO UNTIL _SCREENEXISTS: LOOP
+FOR i = 0 TO 1: _LIMIT(1): NEXT
+$RESIZE:STRETCH
+
+_TITLE "Pong"
+
+'$INCLUDE:'pong.bas'
+'$INCLUDE:'inc/multikey/inp.bas'
