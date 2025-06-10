@@ -1,4 +1,4 @@
-# PICPUZ #
+# PONG #
 
 Old QuickBASIC / QBasic Pong clone.
 
